@@ -1,4 +1,5 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructure from "@/components/Instructure";
 import MusiclCards from "@/components/MusiclCards";
@@ -14,6 +15,7 @@ export default function Home() {
       <MusiclCards />
       <UpcomingWebinars />
       <Instructure/>
+      <Footer/>
     </main>
   );
 }

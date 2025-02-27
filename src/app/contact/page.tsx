@@ -28,7 +28,7 @@ function page() {
           Send Message
         </button>
       </div>
-      <Meteors number={100} />
+      {/* <Meteors number={100} /> */}
     </div>
   );
 }
